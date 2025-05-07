@@ -1,0 +1,12 @@
+{
+    "name": "drones_248k",
+    "version": "0.0.1",
+    "title": "alshasam drones 248k",
+    "author": "aleshasam",
+    "factorio_version": "2.0",
+    "description": "Вырезка дронов из мода 248k",
+    "dependencies": [
+        "base >= 2.0.0",
+        "space-age >= 2.0.0"
+    ]
+}
